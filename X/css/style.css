@@ -1,0 +1,53 @@
+body {
+	height: 2000px;	
+}
+
+.p-o {
+	padding: 0;
+}
+.img-carousel {
+	min-height: 300px;
+}
+
+@media (min-width: 600px) {
+.img-carousel {
+	min-height: 850px;
+	}
+}
+
+.content {
+	background-color: #28474F;
+	margin: 10px;
+	margin-top: 50px;
+}
+
+.contimg {
+	max-height: 300px;
+	border-radius: 10px;
+	padding: 10px;
+
+}
+.cont {
+	width: 500px;
+	height: 600px;
+	background-color: #1E1F32;
+	border: 1px solid #fff;
+	margin: 10px;
+	border-radius: 10px;
+	color: #fff;
+}
+
+.cont h1, p {
+	margin: 20px;
+}
+
+.as a{
+	text-decoration: none;
+	color: black;
+
+}
+
+.as a:hover {
+	text-decoration: none;
+	color: black;
+}
